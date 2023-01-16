@@ -19,8 +19,6 @@
 
 **Timelimit: 1**
 
-**Adaptado por Neilor.**
-
 Aaa Muzambinho... além de seus belos cafezais, também é conhecido pelos seus deliciosos iogurtes. Milton, junto com seu amigo Neves, criaram um grupo de degustação de iogurtes chamado Encoders.
 
 No Encoders eles degustam os diversos tipos de iogurte da cidade. Milton e Neves perceberam que, misturando os iogurtes, conseguem sabores nunca antes provados! Então propuseram um desafio para divertimento do grupo: juntos eles escolheram um "valor de gostosura" para cada iogurte. Eles também sabem o volume de cada um.
