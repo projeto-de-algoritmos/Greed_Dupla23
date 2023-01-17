@@ -28,6 +28,12 @@ Há um README em cada pasta indicando como rodar o código do exercício.
 
 [LeetCode 1877 - Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
 
+## Submissões
 
+![Next Greater Element I - Submissão](/assets/nextGreaterSubmission.png)
+
+![Minimize Maximum Pair Sum in Array - Submissão](/assets/minPairSumSubmission.png)
+
+*Não possuo submissão para a submissão para o "Minimize Product Sum of Two Arrays" pois ele é liberado somente para o plano premium do Leetcode. Eu obtive o enunciado por um site de terceiros.
 
 
