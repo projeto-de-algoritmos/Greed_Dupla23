@@ -11,3 +11,9 @@ function minProductSum(nums1, nums2) {
 
   return output;
 }
+
+// Primeiro caso de teste descrito em minProductSum.md. Esperado 40
+console.log(minProductSum([5,3,4,2], [4,2,2,5]))
+
+// Segundo caso de teste descrito em minProductSum.md. Esperado 65
+console.log(minProductSum([2,1,4,5,7], [3,2,4,8,6]))
