@@ -27,6 +27,10 @@ Submissões
 
 ![O Iogurte Divino - Submissão](assets/Iogurte_Divino.png)
 
+## Video
+
+[Gravação do Projeto](assets/Greed_Dupla23.mp4)
+
 ## Instalação
 **Linguagem**: C++ e JS<br>
 
