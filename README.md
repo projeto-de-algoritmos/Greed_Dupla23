@@ -10,10 +10,22 @@
 | 18/0027352 | Rodrigo Carvalho dos Santos |
 
 ## Sobre
-Apresentar lista de exercícios de programação dinâmica
+
+Apresentar lista de exercícios de Algoritmos Ambiciosos
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+Submissões
+
+![Next Greater Element I - Submissão](/assets/nextGreaterSubmission.png)
+
+![Minimize Maximum Pair Sum in Array - Submissão](/assets/minPairSumSubmission.png)
+
+*Não possuo submissão para a submissão para o "Minimize Product Sum of Two Arrays" pois ele é liberado somente para o plano premium do Leetcode. Eu obtive o enunciado por um site de terceiros.
+
+![Fila do Bandejao - Submissão](assets/Bandejao.png)
+
+![O Iogurte Divino - Submissão](assets/Iogurte_Divino.png)
 
 ## Instalação
 **Linguagem**: C++ e JS<br>
@@ -22,18 +34,16 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 Há um README em cada pasta indicando como rodar o código do exercício.
 
 ## Outros
+
 [LeetCode 496 - Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 
 [LeetCode 1874 - Minimize Product Sum of Two Arrays](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/)
 
 [LeetCode 1877 - Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
 
-## Submissões
+[Beecrowd 1524 - Fila do Bandejao](https://www.beecrowd.com.br/judge/pt/problems/view/1524)
 
-![Next Greater Element I - Submissão](/assets/nextGreaterSubmission.png)
+[Beecrowd 3151 - O Iogurte Divino](https://www.beecrowd.com.br/judge/pt/problems/view/3151)
 
-![Minimize Maximum Pair Sum in Array - Submissão](/assets/minPairSumSubmission.png)
-
-*Não possuo submissão para a submissão para o "Minimize Product Sum of Two Arrays" pois ele é liberado somente para o plano premium do Leetcode. Eu obtive o enunciado por um site de terceiros.
 
 
