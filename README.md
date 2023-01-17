@@ -29,7 +29,9 @@ Submissões
 
 ## Video
 
-[Gravação do Projeto](assets/Greed_Dupla23.mp4)
+[Assistir no Meeting](https://unbbr.sharepoint.com/:v:/s/GravaesPA608/EZxxRhzuXF9LvHXww7cGnDABueLnqE5w800bMXwNLKhixw?e=ze3Epy)
+
+[Baixar no Github](assets/Greed_Dupla23.mp4)
 
 ## Instalação
 **Linguagem**: C++ e JS<br>
