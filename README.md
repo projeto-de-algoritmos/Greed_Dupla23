@@ -16,13 +16,17 @@ Apresentar lista de exercícios de programação dinâmica
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação
-**Linguagem**: C++<br>
+**Linguagem**: C++ e JS<br>
 
 ## Uso
 Há um README em cada pasta indicando como rodar o código do exercício.
 
 ## Outros
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+[LeetCode 496 - Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+
+[LeetCode 1874 - Minimize Product Sum of Two Arrays](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/)
+
+[LeetCode 1877 - Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
 
 
 
